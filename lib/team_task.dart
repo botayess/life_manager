@@ -13,3 +13,6 @@ void main() {
   print("Life Manager project started!");
   showMenu();
 }
+
+String appVersion = "1.0.0";
+print("Version: $appVersion");
