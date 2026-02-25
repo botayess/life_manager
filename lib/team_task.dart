@@ -16,3 +16,8 @@ void main() {
 
 String appVersion = "1.0.0";
 print("Version: $appVersion");
+
+// Main entry point of the application
+void main() {
+  print("Life Manager project started!");
+}
