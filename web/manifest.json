@@ -1,0 +1,10 @@
+{
+  "name": "Life Manager",
+  "short_name": "LifeManager",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#F5F5F5",
+  "theme_color": "#1F2937",
+  "description": "Habits + Finance + Planner",
+  "icons": []
+}

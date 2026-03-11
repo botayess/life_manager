@@ -1,0 +1,17 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.packages
+.pub/
+build/
+
+# Web
+web/.dart_tool/
+web/build/
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+
+# Misc
+.DS_Store
